@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YyjsnTXfioOkQctwn6lzyUqcHzHT0SVsMudGNkOBKZDD9W0L1iiC4f7wWCLGlUK30ZZ6KJm313ehA5DIYwyAiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vmedisetty\\source\\repos\\Vouch.AffordabilityChecks.Host\\Vouch.AffordabilityChecks.Service\\Vouch.AffordabilityChecks.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vmedisetty\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\vmedisetty\\.nuget\\packages\\unity\\5.11.10\\unity.5.11.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+C:\Users\vmedisetty\source\repos\Vouch.AffordabilityChecks.Host\Vouch.AffordabilityChecks.Service\bin\Debug\net5.0\Vouch.AffordabilityChecks.Service.deps.json
+C:\Users\vmedisetty\source\repos\Vouch.AffordabilityChecks.Host\Vouch.AffordabilityChecks.Service\bin\Debug\net5.0\Vouch.AffordabilityChecks.Service.dll
+C:\Users\vmedisetty\source\repos\Vouch.AffordabilityChecks.Host\Vouch.AffordabilityChecks.Service\bin\Debug\net5.0\ref\Vouch.AffordabilityChecks.Service.dll
+C:\Users\vmedisetty\source\repos\Vouch.AffordabilityChecks.Host\Vouch.AffordabilityChecks.Service\bin\Debug\net5.0\Vouch.AffordabilityChecks.Service.pdb
+C:\Users\vmedisetty\source\repos\Vouch.AffordabilityChecks.Host\Vouch.AffordabilityChecks.Service\obj\Debug\net5.0\Vouch.AffordabilityChecks.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vmedisetty\source\repos\Vouch.AffordabilityChecks.Host\Vouch.AffordabilityChecks.Service\obj\Debug\net5.0\Vouch.AffordabilityChecks.Service.AssemblyInfoInputs.cache
+C:\Users\vmedisetty\source\repos\Vouch.AffordabilityChecks.Host\Vouch.AffordabilityChecks.Service\obj\Debug\net5.0\Vouch.AffordabilityChecks.Service.AssemblyInfo.cs
+C:\Users\vmedisetty\source\repos\Vouch.AffordabilityChecks.Host\Vouch.AffordabilityChecks.Service\obj\Debug\net5.0\Vouch.AffordabilityChecks.Service.csproj.CoreCompileInputs.cache
+C:\Users\vmedisetty\source\repos\Vouch.AffordabilityChecks.Host\Vouch.AffordabilityChecks.Service\obj\Debug\net5.0\Vouch.AffordabilityChecks.Service.dll
+C:\Users\vmedisetty\source\repos\Vouch.AffordabilityChecks.Host\Vouch.AffordabilityChecks.Service\obj\Debug\net5.0\ref\Vouch.AffordabilityChecks.Service.dll
+C:\Users\vmedisetty\source\repos\Vouch.AffordabilityChecks.Host\Vouch.AffordabilityChecks.Service\obj\Debug\net5.0\Vouch.AffordabilityChecks.Service.pdb
